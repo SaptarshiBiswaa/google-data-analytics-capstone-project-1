@@ -101,12 +101,11 @@ Excel is used to perform all the analysis and make the following charts. The rid
 
 Aspect | Casual      | Member      |
 -------| ----------- | ----------- |
-$${\color{blue}Ride\space length\space (day\space and\space hour\space wise)}$$  | Much longer (on average, **peaks at night**)     | Shorter     |
-$${\color{blue}Ride\space count\space (day,\space hour\space and\space total\space wise)}$$ | Smaller   | Larger (significantly in weekdays)      |
-$${\color{blue}Preferred\space ride\space day}$$ | Weekends   | All over the week     |
-$${\color{blue}Weekday\space most\space usage\space hours}$$ | Noon to evening | Morning to evening |
-$${\color{blue}End\space station\space neighborhood\space types}$$| Wide-variety | Specific (mostly amusement) |
-
+$Ride\space length$ (each day or, over multiple time-frames) | Much longer (on average, **peaks at night**)     | Shorter     |
+$Ride\space count$ (daily, hourly and total wise) | Smaller   | Larger (significantly in weekdays)      |
+$${Preferred\space ride\space day}$$ | Weekends   | All over the week     |
+$${Weekday\space most\space usage\space hours}$$ | Noon to evening | Morning to evening |
+$${End\space station\space neighborhood\space types}$$| Wide-variety | Specific (mostly amusement) |
 
 ## Data-driven recommendations
 
