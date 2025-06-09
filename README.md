@@ -76,7 +76,9 @@ Excel is used to perform all the analysis and make the following charts. The rid
 
 <img width="664" alt="popular stations" src="https://github.com/user-attachments/assets/067d3f38-e6a6-4bab-b6f2-d1e7c1062b69" />
 
+## PowerBI Dashboard (made using Power BI Service)
 
+<img width="1298" alt="Screen Shot 2025-06-08 at 8 30 05 PM" src="https://github.com/user-attachments/assets/979fc493-1fee-4eae-8f3f-8a0f8446e73f" />
 
 
 ### Key trends in the data
